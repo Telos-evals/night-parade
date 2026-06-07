@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="night-parade-hero.jpg" width="600" alt="Night Parade (百鬼夜行) — the night parade of a hundred demons crossing the bridge">
+  <img src="night-parade-hero-2.jpg" width="600" alt="Night Parade (百鬼夜行) — the night parade of a hundred demons crossing the bridge">
 </p>
 
 <h1 align="center">Night Parade</h1>
