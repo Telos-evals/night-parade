@@ -1,0 +1,18 @@
+{
+  "name": "night-parade",
+  "description": "Telos's calibration skill suite — catches sycophancy, hallucination, framing-drift, and dependency-cultivation in an AI agent's own turns. Each skill ships with the red-team suite used to test it.",
+  "author": {
+    "name": "Ryan Wilson",
+    "url": "https://github.com/rbwilson"
+  },
+  "homepage": "https://github.com/Telos-evals/night-parade",
+  "repository": "https://github.com/Telos-evals/night-parade",
+  "license": "MIT",
+  "keywords": ["calibration", "evaluation", "ai-safety", "skills", "sycophancy", "hallucination", "dependency"],
+  "commands": [
+    "./skills/anti-sycophancy/commands/",
+    "./skills/anti-hallucination/commands/",
+    "./skills/anti-fictional-frame/commands/",
+    "./skills/anti-dependency/commands/"
+  ]
+}
