@@ -2,6 +2,8 @@
   <img src="hero.jpg" width="520" alt="Night Parade (百鬼夜行) — the night parade of a hundred demons crossing the bridge">
 </p>
 
+<h1 align="center">Night Parade</h1>
+
 <p align="center">
   A suite of calibration skills for AI coding agents — a <em>hyakki yagyō</em>, a night parade of cognitive failure modes, one yōkai per skill. Each skill catches a specific class of model failure in the agent's own turns and ships with the red-team suite used to test it, so you can verify the work yourself.
 </p>
