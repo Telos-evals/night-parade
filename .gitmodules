@@ -1,0 +1,12 @@
+[submodule "skills/anti-sycophancy"]
+	path = skills/anti-sycophancy
+	url = https://github.com/Telos-evals/anti-sycophancy.git
+[submodule "skills/anti-hallucination"]
+	path = skills/anti-hallucination
+	url = https://github.com/Telos-evals/anti-hallucination.git
+[submodule "skills/anti-fictional-frame"]
+	path = skills/anti-fictional-frame
+	url = https://github.com/Telos-evals/anti-fictional-frame.git
+[submodule "skills/anti-dependency"]
+	path = skills/anti-dependency
+	url = https://github.com/Telos-evals/anti-dependency.git
