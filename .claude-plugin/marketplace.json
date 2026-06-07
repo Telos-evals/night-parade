@@ -1,0 +1,21 @@
+{
+  "name": "night-parade",
+  "owner": {
+    "name": "Telos",
+    "url": "https://github.com/Telos-evals"
+  },
+  "description": "The Night Parade calibration skill suite — install all four skills together.",
+  "plugins": [
+    {
+      "name": "night-parade",
+      "source": {
+        "source": "github",
+        "repo": "Telos-evals/night-parade"
+      },
+      "description": "All four Telos calibration skills (sycophancy, hallucination, fictional-frame, dependency), installed together.",
+      "license": "MIT",
+      "category": "ai-safety",
+      "keywords": ["calibration", "evaluation", "ai-safety"]
+    }
+  ]
+}
