@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="hyakki-yagyo.jpg" width="720" alt="Hyakki yagyō — the night parade of a hundred demons crossing the bridge">
+</p>
+
 <h1 align="center">Night Parade</h1>
 
 <p align="center">
