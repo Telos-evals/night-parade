@@ -58,6 +58,10 @@ cd night-parade
 
 This copies the four skills into `~/.claude/skills/` and their commands into `~/.claude/commands/` — invocable as `/sycophancy-check`, `/hallucination-check`, `/fictional-frame-check`, `/dependency-check`.
 
+### On any other model (Gemini, ChatGPT, Mistral, Grok…)
+
+The skills are plain-language instructions with no Claude runtime dependency — only the one-command install above is Claude-specific. The on-demand audit is paste-and-run on any model; the silent self-check drops into any platform's system-instruction slot. See **[Using Night Parade on any model](docs/any-model.md)**.
+
 ---
 
 ## Verify it yourself
